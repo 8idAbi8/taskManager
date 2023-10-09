@@ -4,9 +4,9 @@ We are going to implement a full-featured task manager web application.
 The model is straightforward: the main entity is a Task that might be assigned to a Project 
 and always belongs to a User.
 The application is quite simple: a user logs into the task manager and can create diffrent tasks.
-Each task ...
-
-
+Each task has a title and a longer optional description. 
+The user may assign a priority to the task and mark it as complete when it's done. 
+In addition, the user can create different projects that can be used to optionally group the tasks. 
 
 
 # reactive

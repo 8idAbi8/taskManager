@@ -1,0 +1,2 @@
+The Task class is the main entity of the task manager application data model.
+Users should be able to define new tasks and track their completion status through the application's interface.
